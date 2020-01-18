@@ -26,7 +26,7 @@ The REST API to the example app is described below.
 
 	GET /v0/products
 
-curl
+or you can use curl
     
     curl -X GET http://localhost:8085/v0/products/
 
